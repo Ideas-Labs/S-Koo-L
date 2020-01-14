@@ -14,7 +14,7 @@
 1. Python -> Flask Framework
 2. Database -> PostgreSQL
 3. ORM -> SQLAlchemy
-4. Testing -> Flake8
+4. Testing -> Flake8, Hypothesis
 5. API Documentation -> API Blueprint
 
 ### Client
