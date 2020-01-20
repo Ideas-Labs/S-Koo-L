@@ -18,7 +18,7 @@ class School(db.Model):
         nullable=False
     )
 
-    affialiation = db.Column(
+    affiliation = db.Column(
         db.String,
         nullable=False
     )
