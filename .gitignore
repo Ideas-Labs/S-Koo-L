@@ -42,5 +42,10 @@ webpack-build-config.json
 *.lock
 
 # Virtual Env
+api/env/
+api/venv/
 env/
 venv/
+
+#credentials
+api/credentials.py
